@@ -46,5 +46,6 @@ $result = mysqli_query($db, $query);
   <div class="tombol">
     <a href="index.php"><button>back</button></a>
   </div>
+
 </body>
 </html>
