@@ -61,4 +61,14 @@ body, h1, h2, h3, h4, h5, h6, p, ul, ol, li {
   a.delete:hover {
     background-color: #bd2130;
   }
-  
+
+.tombol{
+    margin-left: 25px;
+}
+
+.tombol button{
+    background-color: #007bff;
+    border: none;
+    color: white;
+    font-size: 18px;
+}
