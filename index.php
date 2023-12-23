@@ -96,10 +96,10 @@
     <!-- Navbar Button -->
 
                 <div class="navbarbutton">
-                  <a href="login.html" target="_blank" class="btn btn-outline-danger" role="button">
-                    <img src="img/person.svg" alt=""> Register
+                  <a href="crud.php" onclick="switchToRegister()" target="_blank" class="btn btn-outline-danger" role="button">
+                    <img src="img/person.svg" alt=""> Admin
                 </a>
-                  <a href="login.html" target="_blank" class="btn btn-outline-danger" role="button">
+                  <a href="login.php" target="_blank" class="btn btn-outline-danger" role="button">
                       <img src="img/lock.svg" alt=""> Login
                   </a>
               </div>
@@ -509,7 +509,5 @@
           <p>copyright &copypt. Zepetto interactive indonesia all rights reserved</p>
         </div>
      </div>
-   
-    
 </body>
 </html>
